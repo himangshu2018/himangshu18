@@ -1,0 +1,28 @@
+Git Command
+1.git - - version  ->It is use for verify the git available in our local 
+computer.
+2.cd  ->change directory to take root lavel.
+3.mkdir  fileName  ->It use to create the new file
+4.ls  -> It provide the all file from our present directory.
+5.git init  ->It initialized the file for git.
+6.git clone  “path” ->It is clone the RP in specific folder.
+7.cd “RP name” to go that RP whatever we clone.
+8.touch “file name “ to create the new file in the RP.
+9.nano “file name “ to open the file. Then add some code in the file.
+10. ctrl x  then press the y for save the code using git bash. 
+11. git add . to add the code in the branch.
+12. git commit –m “massege what ever I like”
+13.git push -> for push the code in the Rp.
+Some common command for git 
+14. git log  -> to see the commit person details
+15. git log - -oneline  -> To  see the commit person details by one 
+line.
+16.git show “id number”  To see the details that was change from 
+previous
+17.git diff  -> to see the difference between old and new.
+18.git diff  - - staged -> After add something to see the difference.
+19.git rm  “file Name”  -> for delete the folder from RP.
+20.git reset HEAD filename  -> to remove file from staged.
+21.git checkout  id_name  -> to keep this file and remove all remaining 
+file.
+
