@@ -1,0 +1,16 @@
+1. How to push the project in gitHub?
+  cd
+  cd downloads
+  cd himesh
+  ls
+  git init
+  ls
+  git status
+  git remote add origin https://github.com/himangshu2018/zoadder.git
+  git remote -v
+  git status
+  git status
+  git commit -m "add something"
+  git push
+  git push --set-upstream origin master
+  git push
